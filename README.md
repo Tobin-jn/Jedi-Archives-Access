@@ -77,27 +77,31 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 #### Landing Page:
 
-![](image.jpg)
+<img src='Readme%20/Opening-Jedi.gif' alt='opening' >
 
-#### Persons:
+#### People:
 
-<img src='Readme%20/People.png' >
+<img src='Readme%20/People.png' alt='people' >
 
 #### Planets:
 
-![alt text](Readme/People.png)
+<img src='Readme%20/Planets.png' alt='planets' >
 
 #### Vehicles:
 
-![alt text](image.jpg)
+<img src='Readme%20/Vehicles.png' alt='vehicles' >
 
 #### Saved:
 
-![alt text](image.jpg)
+<img src='Readme%20/Saved.png' alt='saved' >
 
-#### Additional Assets:
+#### Responsive Design:
 
-![swapi-card-anim](https://media.giphy.com/media/2wTcmj7e7flvdbOqct/giphy.gif)
+<img src='Readme%20/responsive.gif' alt='responsive' >
+
+#### Card Hover:
+
+<img src='Readme%20/card.gif' alt='card' >
 
 ### Setup
 #### Frontend
