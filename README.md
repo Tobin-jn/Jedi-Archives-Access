@@ -81,7 +81,7 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 #### People:
 
-<img src='Readme%20/People.png' alt='people' >
+<img src='Readme%20/People.png' alt='people' width='300' >
 
 #### Planets:
 
@@ -101,7 +101,7 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 #### Card Hover:
 
-<img src='Readme%20/card.gif' alt='card' >
+<img src='Readme%20/Card.gif' alt='card'>
 
 ### Setup
 #### Frontend
