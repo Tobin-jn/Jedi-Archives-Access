@@ -77,13 +77,27 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 #### Landing Page:
 
+![](image.jpg)
+
+#### Persons:
+
 ![alt text](image.jpg)
 
-#### Whatever Page:
+#### Planets:
+
+![alt text](image.jpg)
+
+#### Vehicles:
+
+![alt text](image.jpg)
+
+#### Saved:
 
 ![alt text](image.jpg)
 
 #### Additional Assets:
+
+![swapi-card-anim](https://media.giphy.com/media/2wTcmj7e7flvdbOqct/giphy.gif)
 
 ### Setup
 #### Frontend
