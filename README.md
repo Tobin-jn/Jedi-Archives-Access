@@ -51,14 +51,12 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 <img src='Readme%20/Card.gif' alt='card'>
 
 ### Setup
-#### Frontend
 
 Clone the repo
 
 Run ```npm install``` from the root directory
 
 Run ```npm start``` and visit localhost:3000 in your browser
-
 
 ### Test Driven Development
 
