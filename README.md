@@ -11,7 +11,7 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 [Jedi Archives Access](https://www.example.com) on Heroku
 
-### API's used
+### API's Used
 
 * SWAPI- The Star Wars API
 
