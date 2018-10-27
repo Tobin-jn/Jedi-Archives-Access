@@ -85,7 +85,7 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 #### Planets:
 
-![alt text](image.jpg)
+![alt text](Readme/People.png)
 
 #### Vehicles:
 
