@@ -1,6 +1,6 @@
 # Jedi Archives Access
 
-A fully responsive site for Star Wars enthusiasts to explore characteristics of popular people, planets, and vehicles from the legendary film series.
+An app for Star Wars enthusiasts to explore the characteristics of popular people, planets, and vehicles from the legendary film series.
 
 ### Background/About 
 #### 🎉 Awarded First Place at Turing Code Fair, October, 26, 2018 🎉
