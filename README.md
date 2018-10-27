@@ -5,7 +5,7 @@ An app for Star Wars enthusiasts to explore the characteristics of popular peopl
 ### Background/About 
 #### 🎉 Awarded First Place at Turing Code Fair, October, 26, 2018 🎉
 
-Jedi Archives Access allows a user to role-play as a Jedi Master at some point within the established Star Wars film universe. Upon arrival, a user logs into a secure data interface that initializes a narrative connection sequence. Upon login, the user is presented with a situation report (one of the opening film crawl texts, chosen at random), followed by a series of access points relaying information about people, places, and transports that are pertinent to their mission. Users can hover over cards to gather information and click on them to save them into a saved repository.
+Jedi Archives Access allows a user to role-play as a Jedi Master at some point within the established Star Wars film universe. Upon arrival, a user logs into a secure data interface that initializes a narrative connection sequence. Upon login, the user is presented with a situation report (one of the opening film crawl texts, chosen at random), followed by a series of access points relaying information about people, places, and transports that are pertinent to their mission. Users can hover over cards to gather information and click on them to add to their saved repository.
 
 ### See it Live
 
