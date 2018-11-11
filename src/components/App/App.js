@@ -9,7 +9,7 @@ import Vehicles from '../../helpers/Vehicles';
 import Planets from '../../helpers/Planets';
 import People from '../../helpers/People';
 import hamburgerHelper from '../../helpers/hamburger-helper';
-import { Route, Switch, NavLink } from 'react-router-dom';
+import { Redirect, Route, Switch, NavLink } from 'react-router-dom';
 import NoMatch from '../NoMatch/NoMatch';
 import './App.css';
 
