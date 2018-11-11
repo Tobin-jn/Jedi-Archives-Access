@@ -2,7 +2,7 @@
   "name": "swapibox",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://relasine.github.io/SWAPIBox",
+  "homepage": "https://tobin-jn.github.io/Jedi-Archives-Access/",
   "dependencies": {
     "enzyme-to-json": "^3.3.4",
     "eslint": "^5.7.0",
