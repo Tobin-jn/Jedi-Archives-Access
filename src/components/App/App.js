@@ -464,7 +464,6 @@ class App extends Component {
               totalFavorites={this.state.favorites.length}
             />
           )} />
-
           <Route exact path='/favorites' render={() => (
             <CardContainer 
               data={this.state.favorites} 
@@ -475,9 +474,7 @@ class App extends Component {
               totalFavorites={this.state.favorites.length}
             />
           )} />
-
           <Redirect to='/' />
-        
         </Switch>
       </div>
     );
@@ -485,6 +482,11 @@ class App extends Component {
 }
 
 export default App;
+
+
+
+
+
           // <Route render={() => (
           //   <NoMatch
           //     location={window.location}
