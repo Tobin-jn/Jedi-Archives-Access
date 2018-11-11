@@ -25,7 +25,6 @@ class LocalStorage{
   clear = () => {
     this.store = {}
   }
-
 }
 
 export default LocalStorage;
