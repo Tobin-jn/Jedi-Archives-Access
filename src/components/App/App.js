@@ -475,11 +475,6 @@ class App extends Component {
               totalFavorites={this.state.favorites.length}
             />
           )} />
-          <Route render={() => (
-            <NoMatch
-              location={window.location}
-            />
-          )} />
 
           <Redirect to='/' />
         
@@ -490,3 +485,8 @@ class App extends Component {
 }
 
 export default App;
+          // <Route render={() => (
+          //   <NoMatch
+          //     location={window.location}
+          //   />
+          // )} />
