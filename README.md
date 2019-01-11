@@ -1,22 +1,22 @@
 # Jedi Archives Access
 
-An app for Star Wars enthusiasts to explore the characteristics of popular people, planets, and vehicles from the legendary film series.
-
-### Background/About 
+### About 
 #### 🎉 Awarded First Place at Turing Code Fair, October, 26, 2018 🎉
 
+An app for Star Wars enthusiasts to explore the characteristics of popular people, planets, and vehicles from the legendary film series.
+
 Jedi Archives Access allows a user to role-play as a Jedi Master at some point within the established Star Wars film universe. Upon arrival, a user logs into a secure data interface that initializes a narrative connection sequence. Upon login, the user is presented with a situation report (one of the opening film crawl texts, chosen at random), followed by a series of access points relaying information about people, places, and transports that are pertinent to their mission. Users can hover over cards to gather information and click on them to add to their saved repository.
+
+### Tech Stack
+
+* React
+* React Router
 
 ### API's Used
 
 * SWAPI- The Star Wars API
 
-### Primary JavaScript Technologies Used
-
-* React
-* React Router
-
-### Screenshots
+## Screenshots
 
 #### Landing Page:
 
@@ -46,7 +46,7 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 <img src='Readme%20/Card.gif' alt='card'>
 
-### Setup
+## Setup
 
 Clone the repo
 
@@ -62,7 +62,7 @@ Run with ```npm test``` from the root directory
 
 ### Original Assignment
 
-[SWAPIbox](http://frontend.turing.io/projects/swapi-box.html) from the Turing School of Software & Design
+[SWAPIbox](http://frontend.turing.io/projects/swapi-box.html) from the [Turing School of Software & Design](http://turing.io)
 
 ### Contributors
 
