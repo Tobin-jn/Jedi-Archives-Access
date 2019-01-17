@@ -9,7 +9,7 @@ Jedi Archives Access allows a user to role-play as a Jedi Master at some point w
 
 ### See it Live
 
-(Jedi Archives Access)[https://relasine.github.io/SWAPIBox/]
+[Jedi Archives Access](https://relasine.github.io/SWAPIBox/)
 
 ### Tech Stack
 
